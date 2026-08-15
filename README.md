@@ -1,5 +1,5 @@
 BigDebuffs for Conqest of Azeroth and Brozebeard. 
-It's my first release. 98% is done, some stuff is missing. Any feedback can be helpfull. 
+It's my first release. 98% is done, some stuff is missing. Any feedback can be helpful. 
 
 
 It's best pvp addon ever, i know it, You do.
