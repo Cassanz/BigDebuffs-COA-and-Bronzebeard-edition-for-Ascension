@@ -1,4 +1,6 @@
 BigDebuffs for Conqest of Azeroth and Brozebeard. 
+It's my first release. 98% is done, some stuff is missing. Any feedback can be helpfull. 
+
 
 It's best pvp addon ever, i know it, You do.
 Every COA enjoyer should disable Beastal wrath tracking. /bd  > Spell Setting  > Immunities
@@ -9,4 +11,5 @@ Saving it for Bronzebeard
 
 
 
-I am editor, not a creator.
+
+You Cassan on Vol'jin
