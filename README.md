@@ -12,4 +12,7 @@ Saving it for Bronzebeard
 
 
 
+
+
+I will post updates every weekend
 Your Cassan on Vol'jin
